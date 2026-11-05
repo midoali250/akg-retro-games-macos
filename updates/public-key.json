@@ -1,0 +1,6 @@
+{
+  "algorithm": "Ed25519",
+  "platform": "macos",
+  "public_key_base64": "01WhnmN3xdavdnlXn7T/7Rq+eVJSy7B1EWAPBLGJBDk=",
+  "status": "key-provisioned-updater-not-integrated"
+}
